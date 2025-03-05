@@ -4,7 +4,7 @@ This project is a science project I made. It is an interactive model of a plant 
 
 ## Exterior
 I used superglue to stick cardboard onto the buttons, shown in the picture below:
-<img src="cell.jpg" alt="drawing" width='500"/>
+<img src="cell.jpg" alt="drawing" width="500"/>
 
 
 ## Wiring
