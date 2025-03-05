@@ -4,7 +4,8 @@ This project is a science project I made. It is an interactive model of a plant 
 
 ## Exterior
 I used superglue to stick cardboard onto the buttons, shown in the picture below:
-![wires](cell.jpg)
+<img src="cell.jpg" alt="drawing" width="200"/>
+
 
 ## Wiring
 the vaccuole is wired to pin 11
