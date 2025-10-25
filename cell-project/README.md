@@ -18,5 +18,5 @@ the knob is wired to analog input A0
 the cell wall/membrane is wired to pin 7
 
 you can string buttons together, like this:
-<img src="../assets/schematic.png" alt="drawing" width="500"/>
+<img src="../assets/schematic.png" alt="schematic" width="200"/>
 
